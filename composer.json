@@ -1,12 +1,12 @@
 {
-    "name": "raju/laravel-doc-generator",
+    "name": "rajudev/laravel-doc-generator",
     "description": "A Laravel package for generating documentation from controller comments.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Raju",
-            "email": "your-email@example.com"
+            "name": "Raju-dev",
+            "email": "rajud6140@gmail.com"
         }
     ],
     "require": {
@@ -15,19 +15,19 @@
     },
     "autoload": {
         "psr-4": {
-            "Raju\\DocGenerator\\": "src/"
+            "Rajudev\\DocGenerator\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Raju\\DocGenerator\\DocGeneratorServiceProvider"
+                "Rajudev\\DocGenerator\\DocGeneratorServiceProvider"
             ]
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Raju\\DocGenerator\\Tests\\": "tests/"
+            "Rajudev\\DocGenerator\\Tests\\": "tests/"
         }
     },
     "require-dev": {
