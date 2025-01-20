@@ -1,6 +1,6 @@
 <?php
 
-namespace Raju\DocGenerator;
+namespace Rajudev\DocGenerator;
 
 use Illuminate\Support\ServiceProvider;
 use Raju\DocGenerator\Commands\GenerateDocs;
