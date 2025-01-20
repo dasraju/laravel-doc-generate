@@ -3,7 +3,7 @@
 namespace Rajudev\DocGenerator;
 
 use Illuminate\Support\ServiceProvider;
-use Raju\DocGenerator\Commands\GenerateDocs;
+use Rajudev\DocGenerator\Commands\GenerateDocs;
 
 class DocGeneratorServiceProvider extends ServiceProvider
 {
